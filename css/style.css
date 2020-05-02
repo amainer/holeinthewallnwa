@@ -2,8 +2,13 @@ body {
   overflow-x: hidden;
 }
 
+html {
+  font-size: 100%;
+}
+
 .navbar .nav-link {
-  font-size: 14px;
+  /* font-size: 14px; */
+  font-size: 0.9rem;
   text-transform: uppercase;
   padding-left: 1rem !important;
   padding-right: 1rem !important;
